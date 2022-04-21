@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Deadline
+  - Ground
+  - Weapon
+  - Bullet
+  - Trap
+  - Helmet
+  - Ride
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Ride
+  - Ground
+  - IgnorePlayer
+  - Player
+  - UI_3D
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3159366793
+    locked: 0
+  - name: Ground
+    uniqueID: 1169285775
+    locked: 0
+  - name: Player
+    uniqueID: 407134999
+    locked: 0
+  - name: Ride
+    uniqueID: 732445141
+    locked: 0
+  - name: Weapon
+    uniqueID: 3328116805
+    locked: 0
+  - name: FrontGround
+    uniqueID: 1421490687
+    locked: 0

@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: 6597d849151089e43903c9aa4eb6c605
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MusicMixer: {instanceID: 0}
+  - SoundMixer: {fileID: 24100000, guid: eacf1a0288f21ba4b9c7ccda1e8c4709, type: 2}
+  - musicSource: {instanceID: 0}
+  - soundSource: {instanceID: 0}
+  - jumpAudio: {instanceID: 0}
+  - hurtAudio: {instanceID: 0}
+  - dieAudio: {instanceID: 0}
+  - helmetAudio: {instanceID: 0}
+  - upgradeAudio: {instanceID: 0}
+  - trapAudio: {instanceID: 0}
+  - thornAudio: {instanceID: 0}
+  - windholeAudio: {instanceID: 0}
+  - blackholeAudio: {instanceID: 0}
+  - transdoorAudio: {instanceID: 0}
+  - boomAudio: {instanceID: 0}
+  - engineAudio: {instanceID: 0}
+  - handAttackAudio: {instanceID: 0}
+  - speerAttackAudio: {instanceID: 0}
+  - stoneAttackAudio: {instanceID: 0}
+  - swordAttackAudio: {instanceID: 0}
+  - crossbowAttackAudio: {instanceID: 0}
+  - dynamiteAttackAudio: {instanceID: 0}
+  - firespearAttackAudio: {instanceID: 0}
+  - pistolAttackAudio: {instanceID: 0}
+  - bazookaAttackAudio: {instanceID: 0}
+  - missleAttackAudio: {instanceID: 0}
+  - lasergunAttackAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
